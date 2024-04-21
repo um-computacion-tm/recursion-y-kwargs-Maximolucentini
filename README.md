@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VIamCJ27)
+Alumno:Maximo Lucentini Sanchez
+Legajo:63221
+<p>
+Este repositorio contiene 3 trabajos escritos en python: La serie de Fibonacci, Busqueda en base de datos y Factorial
+</p>
